@@ -12,6 +12,7 @@ The Ultimate Flutter Resources is a collection of great learning content, from Y
 - [Articles](#articles)
 - [Documentation](#documentation)
 - [Books](#books)
+- [Icons](icons)
 - [Community](#community)
 
 ## YouTube Channels
@@ -100,6 +101,8 @@ The Ultimate Flutter Resources is a collection of great learning content, from Y
 ## Podcasts
 - [Flutter Talks](https://bit.ly/3jK7xQo)
 - [Universo Flutter](https://spoti.fi/3jOcfwv)
+## Icons
+[SVG Repo](https://www.svgrepo.com/), 500.000+ Open-licensed SVG Vector and Icons. I use these website icons in every app I create!
 ## Community
 - [Discord](https://discord.com/invite/N7Yshp4), Talk to other Flutter developers about Flutter and share useful resources.
 - [Community Slack](https://fluttercommunity.dev/joinslack), Chat with GDEs and other Flutter community members.
