@@ -80,3 +80,6 @@ The Ultimate Flutter Resources is a collection of great learning content, from Y
 - [FilledStacks](https://www.filledstacks.com)
 - [Flutter Beards](https://www.flutterbeads.com)
 - [Flattered With Flutter](https://flatteredwithflutter.com/)
+
+## Contributing
+Please feel free to check the [Contributing.md file](https://github.com/yassine-bennkhay/Ultimate-Flutter-Resources/blob/main/Contributing.md) for more information on how to contribute.
