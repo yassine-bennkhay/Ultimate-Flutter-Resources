@@ -8,6 +8,7 @@ The Ultimate Flutter Resources is a collection of great learning content, from Y
 
 - [YouTube Channels](#youtube-channels)
 - [Paid Courses](#paid-courses)
+- [Blogs and Websites](blogs-and-websites)
 
 ## YouTube Channels
 
@@ -62,4 +63,20 @@ The Ultimate Flutter Resources is a collection of great learning content, from Y
 ## Paid Courses
 [![Flutter & Dart The Complete Guide [2023 Edition]](https://img.shields.io/badge/Flutter%20%26%20Dart%20The%20Complete%20Guide%20%5B2023%20Edition%5D-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 
+[![The Complete Flutter Development Bootcamp with Dart](https://img.shields.io/badge/The%20Complete%20Flutter%20Development%20Bootcamp%20with%20Dart-%23A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 
+[![The Ultimate Dart & Flutter Course 2023](https://img.shields.io/badge/The%20Ultimate%20Dart%20%26%20Flutter%20Course%202023-%23A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/the-ultimate-dart-flutter-course/)
+
+[![Flutter Shop App | State Management BLoC | Backend](https://img.shields.io/badge/Flutter%20Shop%20App%20%7C%20State%20Management%20BLoC%20%7C%20Backend-%23A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/course-selling-online-app-using-flutter-for-ios-and-android/)
+
+## Blogs and Websites
+- [Flutter Official Website](https://www.flutter.dev)
+- [My Blog - yassinebenkhay.com](https://www.yassinebenkhay.com)
+- [Flutter on Medium](https://medium.com/flutter)
+- [Flutter Awesome](https://flutterawesome.com)
+- [It's All Widgets](https://itsallwidgets.com)
+- [Flutter Community on Medium](https://medium.com/flutter-community)
+- [Code With Andrea](https://codewithandrea.com)
+- [FilledStacks](https://www.filledstacks.com)
+- [Flutter Beards](https://www.flutterbeads.com)
+- [Flattered With Flutter](https://flatteredwithflutter.com/)
