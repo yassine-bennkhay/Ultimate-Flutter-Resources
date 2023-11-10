@@ -12,7 +12,7 @@ The Ultimate Flutter Resources is a collection of great learning content, from Y
 - [Articles](#articles)
 - [Documentation](#documentation)
 - [Books](#books)
-- [Icons](icons)
+- [Icons](#icons)
 - [Community](#community)
 
 ## YouTube Channels
