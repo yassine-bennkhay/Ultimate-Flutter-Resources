@@ -9,6 +9,7 @@ The Ultimate Flutter Resources is a collection of great learning content, from Y
 - [YouTube Channels](#youtube-channels)
 - [Paid Courses](#paid-courses)
 - [Blogs and Websites](#blogs-and-websites)
+- [Community](#community)
 
 ## YouTube Channels
 
@@ -70,16 +71,22 @@ The Ultimate Flutter Resources is a collection of great learning content, from Y
 [![Flutter Shop App | State Management BLoC | Backend](https://img.shields.io/badge/Flutter%20Shop%20App%20%7C%20State%20Management%20BLoC%20%7C%20Backend-%23A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/course-selling-online-app-using-flutter-for-ios-and-android/)
 
 ## Blogs and Websites
-- [Flutter Official Website](https://www.flutter.dev)
-- [My Blog - yassinebenkhay.com](https://www.yassinebenkhay.com)
-- [Flutter on Medium](https://medium.com/flutter)
-- [Flutter Awesome](https://flutterawesome.com)
-- [It's All Widgets](https://itsallwidgets.com)
-- [Flutter Community on Medium](https://medium.com/flutter-community)
-- [Code With Andrea](https://codewithandrea.com)
-- [FilledStacks](https://www.filledstacks.com)
-- [Flutter Beards](https://www.flutterbeads.com)
-- [Flattered With Flutter](https://flatteredwithflutter.com/)
+- [Flutter Official Website](https://www.flutter.dev), Flutter official website, docs, and much more.
+- [My Blog - yassinebenkhay.com](https://www.yassinebenkhay.com), I write about different Flutter topics from beginner to advanced level.
+- [Flutter on Medium](https://medium.com/flutter), Different topics, and articles about Flutter.
+- [Flutter Awesome](https://flutterawesome.com), a directory of projects built with the Flutter community.
+- [Flutter Community on Medium](https://medium.com/flutter-community), Flutter Tutorials, Articles, and related topics.
+- [Code With Andrea](https://codewithandrea.com),Flutter, and firebase related articles and step-by-step tutorials.
+- [FilledStacks](https://www.filledstacks.com), Flutter-related articles, and tutorials.
+- [Flutter Beards](https://www.flutterbeads.com), Beginner friendly, how-to-tutorials.
+- [Flattered With Flutter](https://flatteredwithflutter.com/), Different topics about Flutter, and Android.
+## Community
+- [Discord](https://discord.com/invite/N7Yshp4), Talk to other Flutter developers about Flutter and share useful resources.
+- [Community Slack](https://fluttercommunity.dev/joinslack), Chat with GDEs and other Flutter community members.
+- [Stack Overflow](https://stackoverflow.com/tags/flutter), Find answers to pressing questions on Stack Overflow.
+- [Reddit](https://www.reddit.com/r/FlutterDev), Join the subreddit for discussions around every aspect of Flutter.
+- [Google Developer Groups](https://developers.google.com/community/gdg), Connect with fellow developers and startups in your area, hear from industry experts, share your skills, and learn.
+- [Breaking changes](https://groups.google.com/forum/#!forum/flutter-announce), Get news of breaking changes directly in your inbox.
 
 ## Contributing
 Please feel free to check the [Contributing.md file](https://github.com/yassine-bennkhay/Ultimate-Flutter-Resources/blob/main/Contributing.md) for more information on how to contribute.
