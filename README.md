@@ -13,6 +13,7 @@ The Ultimate Flutter Resources is a collection of great learning content, from Y
 - [Documentation](#documentation)
 - [Books](#books)
 - [Icons](#icons)
+- [Colors](#colors)
 - [Community](#community)
 
 ## YouTube Channels
@@ -102,7 +103,9 @@ The Ultimate Flutter Resources is a collection of great learning content, from Y
 - [Flutter Talks](https://bit.ly/3jK7xQo)
 - [Universo Flutter](https://spoti.fi/3jOcfwv)
 ## Icons
-[SVG Repo](https://www.svgrepo.com/), 500.000+ Open-licensed SVG Vector and Icons. I use these website icons in every app I create!
+- [SVG Repo](https://www.svgrepo.com/), 500.000+ Open-licensed SVG Vector and Icons. I use these website icons in every app I create!
+## Colors
+- [Tint and Shade Generator](https://maketintsandshades.com/), Get your primary color and generate tints and shades variants of it for consistent design branding!
 ## Community
 - [Discord](https://discord.com/invite/N7Yshp4), Talk to other Flutter developers about Flutter and share useful resources.
 - [Community Slack](https://fluttercommunity.dev/joinslack), Chat with GDEs and other Flutter community members.
