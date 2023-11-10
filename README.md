@@ -10,6 +10,8 @@ The Ultimate Flutter Resources is a collection of great learning content, from Y
 - [Paid Courses](#paid-courses)
 - [Blogs and Websites](#blogs-and-websites)
 - [Articles](#articles)
+- [Documentation](#documentation)
+- [Books](#books)
 - [Community](#community)
 
 ## YouTube Channels
@@ -81,12 +83,23 @@ The Ultimate Flutter Resources is a collection of great learning content, from Y
 - [FilledStacks](https://www.filledstacks.com), Flutter-related articles, and tutorials.
 - [Flutter Beards](https://www.flutterbeads.com), Beginner friendly, how-to-tutorials.
 - [Flattered With Flutter](https://flatteredwithflutter.com/), Different topics about Flutter, and Android.
+## Documentation
+- [Flutter Official Docs](https://docs.flutter.dev/)
+- [Testing](https://docs.flutter.dev/cookbook/testing)
+- [Unit Testing in Flutter: From Workflow Essentials to Complex Scenarios](https://www.toptal.com/flutter/unit-testing-flutter)
+- [Flutter Complete Roadmap](https://roadmap.sh/flutter)
+
 ## Articles
 - [Create an AI Image Generator- Part 1](https://yassinebenkhay.com/ai-image-generator-in-flutter-with-clean-architecture/), Create an AI Image Generator using Flutter Clean, Architecture, Bloc state management, and OpenAI API: An overview, and Domain Layer.
 - [Create an AI Image Generator- Part 2](https://yassinebenkhay.com/ai-image-generator-flutter-clean-architecture-part-2/), Create an AI Image Generator using Flutter Clean, Architecture, Bloc state management, and OpenAI API: Data and Presentation Layer.
 - [Create an AI Image Generator- Part 3](https://yassinebenkhay.com/create-an-ai-image-generator-flutter-clean-architecture-part-3/), Create an AI Image Generator using Flutter Clean, Architecture, Bloc state management, and OpenAI API: Presentation Layer.
 - [How To Integrate AdMob Ads in Flutter App](https://yassinebenkhay.com/how-to-integrate-admob-ads-in-flutter/), Learn how to integrate AdMob ads in your Flutter app step-by-step.
 - [How to Create a Shimmer Loading Effect in Flutter](https://yassinebenkhay.com/how-to-create-a-shimmer-loading-effect-in-flutter/), Create a shimmer loading effect step-by-step.
+## Books
+- [Best Books to Learn Flutter 2023](https://yassinebenkhay.com/best-books-to-learn-flutter-in-2023/)
+## Podcasts
+- [Flutter Talks](https://bit.ly/3jK7xQo)
+- [Universo Flutter](https://spoti.fi/3jOcfwv)
 ## Community
 - [Discord](https://discord.com/invite/N7Yshp4), Talk to other Flutter developers about Flutter and share useful resources.
 - [Community Slack](https://fluttercommunity.dev/joinslack), Chat with GDEs and other Flutter community members.
