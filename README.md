@@ -9,5 +9,7 @@ The Ultimate Flutter Resources is a collection of great learning content, from Y
 - [YouTube Channels](#youtube-channels)
 
 ## YouTube Channels
-[![YouTube](https://img.shields.io/badge/youtube-333style=for-the-badge&logo=youtube&logoColor=white)]()
+[![Youtube](https://img.shields.io/badge/Vandad%20Nahavandipoor%20Flutter%20Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://github.com/yassine-bennkhay](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)
+
+
 
