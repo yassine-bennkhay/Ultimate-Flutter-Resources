@@ -85,6 +85,7 @@ The Ultimate Flutter Resources is a collection of great learning content, from Y
 - [FilledStacks](https://www.filledstacks.com), Flutter-related articles, and tutorials.
 - [Flutter Beards](https://www.flutterbeads.com), Beginner friendly, how-to-tutorials.
 - [Flattered With Flutter](https://flatteredwithflutter.com/), Different topics about Flutter, and Android.
+- [Kodeco](https://www.kodeco.com/flutter/articles), A blog about Flutter and other mobile technologies.
 ## Documentation
 - [Flutter Official Docs](https://docs.flutter.dev/)
 - [Testing](https://docs.flutter.dev/cookbook/testing)
