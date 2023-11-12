@@ -66,6 +66,8 @@ The Ultimate Flutter Resources is a collection of great learning content, from Y
 
 [![Romain Girou](https://img.shields.io/badge/Romain%20Girou-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Romain_Girou)
 
+[![Randal L. Schwartz](https://img.shields.io/badge/Randal%20L.%20Schwartz-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RandalOnDartAndFlutter)
+
 ## Paid Courses
 [![Flutter & Dart The Complete Guide [2023 Edition]](https://img.shields.io/badge/Flutter%20%26%20Dart%20The%20Complete%20Guide%20%5B2023%20Edition%5D-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 
