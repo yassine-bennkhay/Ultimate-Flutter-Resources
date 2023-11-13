@@ -97,9 +97,9 @@ The Ultimate Flutter Resources is a collection of great learning content, from Y
 - [Flutter Complete Roadmap](https://roadmap.sh/flutter)
 
 ## Articles
-- [Create an AI Image Generator- Part 1](https://yassinebenkhay.com/ai-image-generator-in-flutter-with-clean-architecture/), Create an AI Image Generator using Flutter Clean, Architecture, Bloc state management, and OpenAI API: An overview, and Domain Layer.
-- [Create an AI Image Generator- Part 2](https://yassinebenkhay.com/ai-image-generator-flutter-clean-architecture-part-2/), Create an AI Image Generator using Flutter Clean, Architecture, Bloc state management, and OpenAI API: Data and Presentation Layer.
-- [Create an AI Image Generator- Part 3](https://yassinebenkhay.com/create-an-ai-image-generator-flutter-clean-architecture-part-3/), Create an AI Image Generator using Flutter Clean, Architecture, Bloc state management, and OpenAI API: Presentation Layer.
+- [Create an AI Image Generator- Part 1](https://yassinebenkhay.com/ai-image-generator-in-flutter-with-clean-architecture/), Create an AI Image Generator using Flutter Clean Architecture, Bloc state management, and OpenAI API: An overview, and Domain Layer.
+- [Create an AI Image Generator- Part 2](https://yassinebenkhay.com/ai-image-generator-flutter-clean-architecture-part-2/), Create an AI Image Generator using Flutter Clean Architecture, Bloc state management, and OpenAI API: Data and Presentation Layer.
+- [Create an AI Image Generator- Part 3](https://yassinebenkhay.com/create-an-ai-image-generator-flutter-clean-architecture-part-3/), Create an AI Image Generator using Flutter Clean Architecture, Bloc state management, and OpenAI API: Presentation Layer.
 - [How To Integrate AdMob Ads in Flutter App](https://yassinebenkhay.com/how-to-integrate-admob-ads-in-flutter/), Learn how to integrate AdMob ads in your Flutter app step-by-step.
 - [How to Create a Shimmer Loading Effect in Flutter](https://yassinebenkhay.com/how-to-create-a-shimmer-loading-effect-in-flutter/), Create a shimmer loading effect step-by-step.
 ## Books
