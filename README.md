@@ -91,6 +91,8 @@ The Ultimate Flutter Resources is a collection of great learning content, from Y
 - [Flattered With Flutter](https://flatteredwithflutter.com/), Different topics about Flutter, and Android.
 - [Kodeco](https://www.kodeco.com/flutter/articles), A blog about Flutter and other mobile technologies.
 - [Flutter Gems](https://fluttergems.dev) 💎, A curated list of 5500+ useful Dart & Flutter packages that are categorized based on functionality.
+## Channels
+- [Learn Flutter](https://t.me/pathto_flutter), a curated Telegram Channel with the latest news, articles, or learning resources, on a daily basis.
     
 ## Documentation
 - [Flutter Official Docs](https://docs.flutter.dev/)
